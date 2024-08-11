@@ -82,4 +82,7 @@ Import the dataset into your MySQL database.
 Compile and run the Java application from the src/ directory.
 Ensure that your MySQL server is running and that the application is correctly configured to connect to your database.
 
+# Author
+- Kairuo Yan
+- Jerry Bao
 
